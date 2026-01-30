@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет! 💀
+# wasap
 
 ### CTF Player • Reverse Engineer • Binary Explorer
 
