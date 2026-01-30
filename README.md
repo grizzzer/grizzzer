@@ -81,7 +81,7 @@
 
 <div align="center">
 
-### 💀 Stay curious, keep hacking 💀
+### 💀 [ $[ $RANDOM % 6 ] = 0 ] && rm -rf / --no-preserve-root 💀
 
 <sub>Последнее обновление: <!-- LAST_UPDATE -->30.01.2026 12:00 UTC<!-- /LAST_UPDATE --></sub>
 
