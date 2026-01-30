@@ -1,6 +1,6 @@
 <div align="center">
 
-# wasap
+# grizzzer
 
 ### CTF Player • Reverse Engineer • Binary Explorer
 
