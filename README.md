@@ -77,6 +77,7 @@
 └── Other
     ├── Wireshark
     ├── Burp Suite
+    ├── Tools for AD pentest (impacket, bloodhound, C2)
     └── Docker
 ```
 
