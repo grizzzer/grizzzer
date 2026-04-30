@@ -2,7 +2,7 @@
 
 # grizzzer
 
-### CTF Player • Reverse Engineer • Binary Explorer
+### CTF Player • Pentester • Reverse Engineer • Binary Explorer 
 
 ---
 
