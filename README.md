@@ -94,6 +94,6 @@
 
 ### 💀 [ $[ $RANDOM % 6 ] = 0 ] && rm -rf / --no-preserve-root 💀
 
-<sub>Последнее обновление: <!-- LAST_UPDATE -->30.01.2026 18:16 UTC<!-- /LAST_UPDATE --></sub>
+<sub>Последнее обновление: <!-- LAST_UPDATE -->30.04.2026 23:41 UTC<!-- /LAST_UPDATE --></sub>
 
 </div>
