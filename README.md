@@ -83,9 +83,9 @@
 
 ---
 
-## Как со мной связаться (кликабельные ссылки)
+## Как со мной связаться 
 
-- **HackerLab:** [pozhilok](https://hackerlab.pro/users/pozhilok)
+
 - **TG:** [LSP_men](https://t.me/LSP_men)
 
 ---
