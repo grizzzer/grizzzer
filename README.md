@@ -34,6 +34,16 @@
 
 <!-- HACKERLAB_STATS_END -->
 
+### standoff365
+
+[padlapadla](https://standoff365.com/profile/padlapadla/)
+
+
+###tryhackme
+
+[grizzzer](https://tryhackme.com/p/grizzzer)
+
+
 <!-- 
 📌 Здесь будет статистика с других платформ когда добавлю ссылки:
 - HTB (HackTheBox)
