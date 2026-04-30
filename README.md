@@ -26,7 +26,7 @@
 
 ## Статистика с платформ и профили ⭐   (будет обновляться)
 
-### HackerLab.pro
+### HackerLab.pro (бывш. Codeby Games)
 
 <!-- HACKERLAB_STATS_START -->
 
