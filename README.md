@@ -43,6 +43,10 @@
 [grizzzer](https://tryhackme.com/p/grizzzer)
 
 
+### cryptohack
+
+[grizzzer](https://cryptohack.org/user/grizzzer/)
+
 <!-- 
 📌 Здесь будет статистика с других платформ когда добавлю ссылки:
 - HTB (HackTheBox)
