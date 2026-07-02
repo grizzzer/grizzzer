@@ -81,7 +81,8 @@
     ├── Wireshark
     ├── Burp Suite and other Web
     ├── Tools for AD pentest (impacket, bloodhound, C2)
-    └── Docker, Kubernetes
+    ├── Docker, Kubernetes
+    └── and more more other.....
 ```
 
 ---
