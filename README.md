@@ -43,6 +43,11 @@
 [grizzzer](https://tryhackme.com/p/grizzzer)
 
 
+### Хабр
+
+[grizzzer](https://habr.com/ru/users/grizzzer/articles/)
+
+
 ### cryptohack
 
 [grizzzer](https://cryptohack.org/user/grizzzer/)
